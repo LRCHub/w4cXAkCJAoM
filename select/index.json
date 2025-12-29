@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "YOUNG TOWN",
+  "base_artist": "PEOPLE 1",
+  "createdAt": "2025-12-29T11:15:34.621447Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "YOUNG TOWN",
+      "artist": "PEOPLE 1",
+      "has_synced": true,
+      "path": "select/01_YOUNG_TOWN_PEOPLE_1.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "YOUNG TOWN",
+      "artist": "PEOPLE 1",
+      "has_synced": true,
+      "path": "select/02_YOUNG_TOWN_PEOPLE_1.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "YOUNG TOWN",
+      "artist": "PEOPLE 1",
+      "has_synced": false,
+      "path": "select/03_YOUNG_TOWN_PEOPLE_1.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "YOUNG TOWN",
+      "artist": "PEOPLE 1",
+      "has_synced": false,
+      "path": "select/pl_01_YOUNG_TOWN_PEOPLE_1.txt"
+    }
+  ]
+}
